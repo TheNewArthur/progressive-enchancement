@@ -1,0 +1,67 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  width: 90%;
+  margin-left: 5%;
+  background: linear-gradient(75deg, #66f7d0, #fcfafa);
+  text-align: left;
+}
+
+blockquote {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  font-size: 160%;
+  background-color: rgba(204, 204, 204, 0.4);
+  border-left: 3px solid firebrick;
+  padding-left: 30px;
+}
+
+header {
+  margin-top: 15px;
+}
+header h1 {
+  background-color: yellow;
+}
+
+q {
+  font-style: italic;
+}
+
+.town {
+  border-left: 2px solid darkorchid;
+}
+
+.farmer {
+  border-left: 2px solid yellow;
+}
+
+mark {
+  text-transform: capitalize;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.bad {
+  color: red;
+}
+
+.good {
+  color: green;
+}
+
+.white {
+  background-color: #fcfafa;
+}
+
+.gray {
+  background-color: #999999;
+}
+
+.use-flex {
+  display: flex;
+}/*# sourceMappingURL=main.css.map */
